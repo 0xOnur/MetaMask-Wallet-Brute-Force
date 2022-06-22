@@ -1,4 +1,4 @@
-import threading
+# import threading
 from hdwallet import BIP44HDWallet
 from hdwallet.cryptocurrencies import EthereumMainnet
 from hdwallet.derivations import BIP44Derivation
@@ -8,8 +8,8 @@ from typing import Optional
 import requests
 import json
 from termcolor import colored, cprint
-import time
-import os
+# import time
+# import os
 
 ETHAPI = 'key'
 BSCAPI = 'key'
