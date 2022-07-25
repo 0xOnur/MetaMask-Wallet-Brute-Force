@@ -6,7 +6,7 @@
 
 ---
 
-### :scroll: Required Download libraries  :
+### :scroll: Required Download Libraries  :
   * pip install hdwallet
   * pip install termcolor
   * pip install requests
